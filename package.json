@@ -28,14 +28,6 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.2.4",
-<<<<<<< Updated upstream
-=======
-    "eslint-config-prettier": "^10.1.8",
-    "eslint-plugin-prettier": "^5.5.5",
-    "fast-check": "^4.8.0",
-    "jsdom": "^29.1.1",
-    "prettier": "^3.8.3",
->>>>>>> Stashed changes
     "tailwindcss": "^4",
     "typescript": "^5",
     "vitest": "^4.1.8"
